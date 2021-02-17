@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap");
+
+body {
+  background-image: url(https://www.wallpapers4u.org/wp-content/uploads/dark_black_and_white_abstract_black_background_76353_1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0ch;
+}
+
+h1 {
+  color: rgb(255, 196, 2);
+}
+
+.header__logo {
+  color: rgb(255, 196, 2);
+}
+
+.header__title {
+  color: rgb(255, 196, 2);
+  padding-top: 130px;
+  padding-bottom: 140px;
+}
+
+.about-me {
+  display: flex;
+  justify-content: space-around;
+}
+
+.section__left {
+  padding-bottom: 90px;
+  font-weight: 300;
+}
+
+h2 {
+  color: rgb(255, 196, 2);
+}
+
+h2:last-child {
+  padding-bottom: 93px;
+}
+
+.card-group h5 {
+  font-size: xx-large;
+}
+
+.card-group p {
+  font-size: x-large;
+}
+
+h3 {
+  color: rgb(255, 196, 2);
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.blocks {
+  width: 970px;
+  height: 300px;
+  font-size: 66px;
+  background-color: #363839;
+  color: white;
+  margin: 40px;
+}
+
+.blocks {
+  color: rgb(255, 196, 2);
+}
+
+#block-1:hover {
+  background-image: url(../image/HouseVop-2.png);
+  font-size: large;
+}
+
+#block-2:hover {
+  background-image: url(../image/IDM-2.png);
+  font-size: large;
+}
+
+#block-3:hover {
+  background-image: url(../image/beton-2.png);
+  font-size: large;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #363839;
+  color: rgb(255, 196, 2);
+}
+
+.footer__left h4 {
+  font-size: xx-large;
+}
+
+.footer__left p {
+  font-size: x-large;
+}
+
+.footer__right h4 {
+  font-size: xx-large;
+}
